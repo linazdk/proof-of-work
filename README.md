@@ -14,6 +14,6 @@
 * **nodeExists** (address) => boolean
   Fetches in the nodes array if the provided node already exists and returns this information
 
-## 🎥 Démonstration
+## Démonstration
 Vidéo montrant la validation de la blockchain avec `/checkChain` :
 https://drive.google.com/file/d/1Hjk9rCEo3VGg4HlVwvHC6JMRdeFL9Qg_/view?usp=sharing
