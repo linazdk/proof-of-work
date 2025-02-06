@@ -56,6 +56,6 @@ function generateProof(lastProof){
 function isValidProof(lastProof, proof){
     const guess = `${lastProof}${proof}`;
     const guessHash = crypto.createHash('sha256').update(guess).digest('hex');
-    return guessHash.startsWith('0000');  // Augmenter le nombre de 0 pour plus de difficulté
+    return guessHash.startsWith('0000'); 
 }
 
