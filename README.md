@@ -13,3 +13,7 @@
   Enable the insertion of new nodes and returns if the address has been added (cannot add twice the same address)
 * **nodeExists** (address) => boolean
   Fetches in the nodes array if the provided node already exists and returns this information
+
+## 🎥 Démonstration
+Vidéo montrant la validation de la blockchain avec `/checkChain` :
+https://drive.google.com/file/d/1Hjk9rCEo3VGg4HlVwvHC6JMRdeFL9Qg_/view?usp=sharing
